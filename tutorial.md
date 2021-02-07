@@ -42,3 +42,6 @@ Look at the virtual @boardname@, you should see the heart and your drawing blink
 ## Step 4
 
 If you have a @boardname@ connected, click ``|Download|`` to transfer your code and watch the hearts flash!
+
+* for PXT/microbit
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
