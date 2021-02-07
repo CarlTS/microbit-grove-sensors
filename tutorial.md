@@ -1,6 +1,6 @@
 # Flashing Heart
 
-## Introduction @unplugged
+## Introduction
 
 Learn how to use the LEDs and make a flashing heart! 
 (Want to learn how lights work? [Watch this video](https://youtu.be/qqBmvHD5bCw)).
@@ -8,7 +8,7 @@ Learn how to use the LEDs and make a flashing heart!
 
 ![Heart shape in the LEDs](/static/mb/projects/flashing-heart/sim.gif)
 
-## Step 1 @fullscreen
+## Step 1 
 
 Place the ``||basic:show leds||`` block in the ``||basic:forever||`` block and draw a heart.
 
