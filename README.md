@@ -2,6 +2,7 @@
 > Open this page at [https://carlts.github.io/microbit-grove-sensors/](https://carlts.github.io/microbit-grove-sensors/)
 
 ## Tutorials
+* [Apple](/microbit-grove-sensors/apple)
 * [tutorial](/microbit-grove-sensors/tutorial)
 
 
