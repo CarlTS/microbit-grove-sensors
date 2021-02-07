@@ -2,7 +2,7 @@
 > Open this page at [https://carlts.github.io/microbit-grove-sensors/](https://carlts.github.io/microbit-grove-sensors/)
 
 ## Tutorials
-* [tutorial](/tutorial)
+* [tutorial](/microbit-grove-sensors/tutorial)
 
 
 ## Edit this project ![Build status badge](https://github.com/carlts/microbit-grove-sensors/workflows/MakeCode/badge.svg)
